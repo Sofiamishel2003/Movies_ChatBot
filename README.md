@@ -55,7 +55,6 @@ Coloca el archivo `credits.csv` dentro de `datasets/`:
 ```
 Movies_ChatBot/
 ├── movie_server.py
-├── movie_planner.py
 ├── movie_sources.py
 ├── requirements_movies.txt
 └── datasets/
